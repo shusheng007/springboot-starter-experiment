@@ -1,0 +1,8 @@
+{"properties": [
+    {
+      "name": "ss007.hello.enabled",
+      "type": "java.lang.Boolean",
+      "description": "是否启动Hello的自动装配功能."
+    }
+  ]
+}
